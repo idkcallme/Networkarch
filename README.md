@@ -37,7 +37,7 @@ The network is structured as follows:
 
 The "ISP" router was configured to:
 
-*   Simulate an internet connection by assigning itself a "public" IP address.
+*   Simulate an internet connection by assigning itself a public IP address.
 *   Act as the default gateway for the internal network.
 *   Provide DHCP service, automatically assigning IP addresses to devices on the internal network.
 
